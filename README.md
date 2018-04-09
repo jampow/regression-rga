@@ -9,9 +9,8 @@ We are going to automate some regression test for RGA website.
 
 ### Prerequisites
 
-* Cucumber
-* Capybara
 * Ruby
+* Cucumber (to install Cucumber, run ```gem install``` cucumber)
 
 ## Running the tests
 
