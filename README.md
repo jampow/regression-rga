@@ -16,4 +16,3 @@ We are going to automate some regression test for RGA website.
 ## Running the tests
 
 Save the repository to a local folder, them on the terminal, just run the command ```cucumber```
-http://g.recordit.co/sNfmbvZsoF.gif
