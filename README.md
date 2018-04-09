@@ -15,4 +15,6 @@ We are going to automate some regression test for RGA website.
 
 ## Running the tests
 
-Save the repository to a local folder, them on the terminal, just run the command ```cucumber```
+Save the repository to a local folder, them on the terminal, run ```bundle install``` 
+Then just run ```cucumber```
+
